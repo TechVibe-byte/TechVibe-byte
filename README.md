@@ -1,6 +1,6 @@
-![Banner]
+
 <p align="center">
-  <img src="resources/banner.png" alt="TechVibe-byte Banner" width="200" style="max-width:1200px; border-radius:10px;">
+  <img src="resources/banner.png" alt="TechVibe-byte Banner" width="500" style="max-width:1200px; border-radius:10px;">
 </p>
 
 
