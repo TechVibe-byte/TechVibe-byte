@@ -24,8 +24,8 @@
 
 ## 📊 GitHub Stats  
 
-![Chandu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Chandu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechVibe-byte&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechVibe-byte&layout=compact&theme=tokyonight)
 
 ---
 
@@ -34,7 +34,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](YOUR_TELEGRAM_URL)
-[![YouTube](https://img.shields.io/badge/Techvide-FF0000?style=flat&logo=youtube&logoColor=white)](YOUR_YOUTUBE_CHANNEL_URL)
+[![YouTube](https://img.shields.io/badge/Techvide-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@techvibe-v7q)
 
 ---
 
