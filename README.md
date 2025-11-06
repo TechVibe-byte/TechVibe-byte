@@ -1,8 +1,8 @@
 
-<p align="center">
-  <img src="resources/banner.png" alt="TechVibe-byte Banner" width="500" style="max-width:1200px; border-radius:10px;">
-</p>
-
+<!-- Center-aligned banner image -->
+<h1 align="center">
+  <img src="resources/banner.png" alt="GitHub Banner" width="800" height="200" />
+</h1>
 
 
 ## 👾 About Me 
