@@ -1,4 +1,7 @@
- ![Banner](resources/banner.png)
+<p align="center">
+  <img src="resources/banner.png" alt="TechVibe-byte Banner" width="800">
+</p>
+
 
 ## 👾 About Me 
 👋 Hi, I’m **Chandu**, the mind behind **Techvide** ⚡  
