@@ -1,4 +1,4 @@
-## 👾 About Me  
+## 👾 About Me  (resources/banner.png)
 
 👋 Hi, I’m **Chandu**, the mind behind **Techvide** ⚡  
 🐧 Passionate about **Linux**, **Termux**, and **automation** — I build scripts and tools that actually *do the job*.  
