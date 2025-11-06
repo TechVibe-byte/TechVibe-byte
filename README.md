@@ -1,7 +1,7 @@
 
 <!-- Center-aligned banner image -->
 <h1 align="center">
-  <img src="banner.jpg" alt="GitHub Banner" width="800" height="200" />
+  <img src="resources/banner.png" alt="GitHub Banner" width="800" height="200" />
 </h1>
 
 
